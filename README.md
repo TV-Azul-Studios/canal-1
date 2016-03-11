@@ -8,5 +8,5 @@
 
 ##Divisao de trabalho:
 * T - GDD, Design Grafico, Level Design, Script, Programacao auxiliar, Sons, Correcoes gramaticais
-* V - TDD, Prototipos, Design Grafico, Level Design, Script, Sons
+* V - TDD, Prototipos, Design Grafico, Level Design, Script, Sons, Programacao geral
 * M - Programacao auxiliar, Testes, Sons, Design auxiliar
